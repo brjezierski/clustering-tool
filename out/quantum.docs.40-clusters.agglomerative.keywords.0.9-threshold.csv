@@ -1,0 +1,637 @@
+document,cluster_id,silhoutte_score,avg_cos_sim_to_centroid,cos_sim_to_centroid,centroid_ratio
+The company is developing the 12CQ quantum computing chip,20,0.04,0.89,0.96,0.59
+He was the first to develop a quantum algorithm that,39,0.14,0.93,0.94,0.75
+"in the CQE community, these organizations are developing quantum technology",17,0.14,0.87,0.96,0.63
+QuEra is developing hardware and software with the goal of providing useful quantum computing,20,0.04,0.89,0.96,0.60
+"qBraid, based in Chicago, is a platform for quantum computing, providing everything necessary to develop quantum software",39,0.14,0.93,0.92,0.79
+"We are developing quantum computers designed to solve the world's most complex problems, and transform business, society, and the planet for the better",34,-0.08,0.81,0.92,0.76
+our ability to develop our quantum computing program,20,0.04,0.89,0.96,0.68
+The Company is engaged in quantum computing and develops general-purpose quantum computing systems,20,0.04,0.89,0.93,0.68
+"The current state of research into quantum technologies and their applications is still at an early stage, offering only a partial understanding",2,0.08,0.85,0.92,1.00
+"EuroQCI is the European Union’s initiative to build, develop and deploy this pan-European quantum secure",39,0.14,0.93,0.97,0.77
+The company builds quantum computers and the superconducting quantum processors that power them,19,0.03,0.83,0.96,0.73
+"EuroQCI is a European Union initiative to build, develop and deploy this pan-European quantum secure",39,0.14,0.93,0.97,0.77
+Samsung is Using Quantum Computing to Research Better,13,0.07,0.78,0.94,0.67
+"Shor developed the first potentially useful quantum algorithm,",20,0.04,0.89,0.96,0.68
+it presents the go-to choice for many small scale qubit systems and is commonly,22,0.02,0.90,0.90,0.79
+Quantum information processing for solving real-world problems is available now,22,0.02,0.90,0.94,0.71
+"are not looking to compete against organisations like Google, Microsoft, IBM and Intel and others who are racing to build quantum computers",39,0.14,0.93,0.94,0.69
+that are developing quantum computers and devices,20,0.04,0.89,0.94,0.74
+The mission is to develop and build quantum computing hardware and algorithms for a quantum computer that can solve important problems in the life sciences,34,-0.08,0.81,0.91,0.80
+"Even when quantum computing’s science is established, there will be challenges like familiarizing the industry with a computing system that",39,0.14,0.93,0.92,0.89
+They enable the creation of qubits that,15,0.02,0.86,0.93,0.63
+Rigetti Computing (NASDAQ:RGTI) provides quantum computing systems and services,23,0.10,0.91,0.96,0.53
+that quantum computing is still in its early stages,16,0.15,0.93,0.97,0.58
+the global effort to build scalable quantum processors,26,1.00,1.00,1.00,0.00
+"CDPH provides multiple resources, including a Q",31,1.00,1.00,1.00,0.00
+"Further, the company builds quantum computers and the underlying superconducting quantum processors for some of the top organizations",19,0.03,0.83,0.92,0.84
+Researchers will work to develop both quantum hardware as well as algorithms that could be used by a quantum computer,17,0.14,0.87,0.91,0.73
+Quantum circuit simulation is critical for developing applications and algorithms for quantum computers,0,-0.04,0.84,0.91,0.96
+optical switch is a key part of PsiQuantum’s plans to build a scalable million qubit quantum computer,39,0.14,0.93,0.94,0.73
+Doing this improves Q’s accuracy,33,0.78,0.98,1.00,0.11
+There are many challenges to building a scalable quantum computer,39,0.14,0.93,0.97,0.76
+I'm excited for the opportunity to even further build our quantum sensing program at CINT,19,0.03,0.83,0.93,0.71
+The mission is to develop and build quantum hardware and algorithms for a quantum computer that can solve important problems in the life sciences,34,-0.08,0.81,0.92,0.77
+Some of these quantum computers are accessible to the public through the cloud,22,0.02,0.90,0.90,0.84
+Our quantum dots enable products that,15,0.02,0.86,0.93,0.58
+"Among many research areas, the program is focused on advancements across quantum computing and quantum communications",32,0.14,0.85,0.93,0.66
+"Google, Microsoft and others, are the necessary impetus for people to adopt post-quantum cryptography",22,0.02,0.90,0.91,0.97
+"Although this threat is currently only theoretical, leaders in quantum computing are already working on quantum cryptography to get ahead of this potential cybersecurity threat",0,-0.04,0.84,0.90,0.97
+quantum computers are to be developed,17,0.14,0.87,0.91,0.84
+more superconducting devices of a quantum processor (100) are provided,25,0.03,0.82,0.92,0.63
+I’m excited for the opportunity to even further build our quantum sensing program at CINT,19,0.03,0.83,0.93,0.71
+that this is a trivial problem for a sufficiently powerful quantum computer,22,0.02,0.90,0.94,0.65
+"As a first step, we are building an optical quantum memory based on rare-earth-ion-doped crystals",36,0.23,0.93,0.93,0.72
+"The next step in the evolution of computers is the quantum computer, whose fundamental logic units exploit this exotic behavior",2,0.08,0.85,0.90,0.83
+"Among many research areas, the program is focused on advancements across quantum computing and quantum communications",32,0.14,0.85,0.93,0.66
+The implementations of these quantum computers are still in its infancy,22,0.02,0.90,0.93,0.72
+powerful quantum computers become available in the future,38,0.05,0.83,0.91,0.61
+The company has developed the industry's first multi-chip quantum processor for scalable quantum computing systems,17,0.14,0.87,0.95,0.62
+If quantum computers are available in the future,2,0.08,0.85,0.91,0.84
+a hybrid classical-quantum system will be the primary way to leverage the power of quantum computers as they mature,2,0.08,0.85,0.93,0.89
+should be able to capture and quantify the challenging aspects that currently make it difficult to build a scalable quantum computing platform,30,0.11,0.86,0.91,0.74
+"Over the next 10 years, Intel expects to be competitive (or pull ahead) of others in terms of qubit count and performance",22,0.02,0.90,0.91,0.80
+Quantum computing is more in the early stages,16,0.15,0.93,0.97,0.58
+Rigetti has developed the industry's first multi-chip quantum processor for scalable quantum computing systems,17,0.14,0.87,0.95,0.62
+"subsidy for €1.1M project to develop superconducting quantum processors with novel materials       ‍September 15th, 2022",17,0.14,0.87,0.90,0.85
+isotope-controlled SiC enable a variety of quantum devices,15,0.02,0.86,0.91,0.65
+these materials to build quantum devices and hardware,36,0.23,0.93,0.97,0.49
+"After my postdoc, I plan to use what I’ve learned to build a quantum computing and hardware startup",19,0.03,0.83,0.91,0.86
+"However, there are still many obstacles hindering practical quantum computing",16,0.15,0.93,0.99,0.45
+The reality is that Alphabet has built the world’s leading quantum computer,39,0.14,0.93,0.95,0.77
+"That is, other quantum computing players like Alphabet have chased quantum supremacy",22,0.02,0.90,0.93,0.80
+"Since it is difficult to experimentally achieve stimulated emission output using both long-lived atomic energy levels and bad cavity structures, this requirement greatly limits the quantum systems that can be used for the active optical frequency standard",22,0.02,0.90,0.93,0.93
+the neural Turing machine model was improved,33,0.78,0.98,1.00,0.11
+QCI has developed a room-temperature Entropy Quantum System for solving real world business problems today,17,0.14,0.87,0.97,0.63
+QCI has developed a room-temperature Entropy Quantum System (EQC) for solving real world business problems,17,0.14,0.87,0.97,0.63
+we will continue to build a company that will deliver on the promise of quantum computing - today,36,0.23,0.93,0.93,0.71
+quantum computing to working hands in order to enable them to build their skills and use them to develop work tasks,36,0.23,0.93,0.90,0.98
+quantum networking can be a key part of developing large-scale quantum computers via interconnecting multiple quantum chips,2,0.08,0.85,0.93,0.77
+"QphoX is developing the world’s first Quantum Modem™, a breakthrough device that will allow the quantum computing industry to scale through connectivity and parallelization and unlock the potential of the Quantum Internet.",15,0.02,0.86,0.91,0.94
+"AWS is also a founding member of the Quantum Ecosystems and Technology Council of India (QETCI), to help develop the quantum computing community",39,0.14,0.93,0.94,0.67
+"We are delighted to collaborate with the Government of India, MeitY QCAL, and AWS to build and enhance the quantum computing community",36,0.23,0.93,0.91,0.88
+ARQQ Stock Provides Affordable Quantum Computing Exposure,31,1.00,1.00,1.00,0.00
+we develop a framework for using QML methods to       simulate quantum dynamics on near-term quantum hardware,20,0.04,0.89,0.92,0.74
+Leading quantum organizations are already using NVIDIA GPUs and highly specialized NVIDIA software NVIDIA cuQuantum to develop individual quantum circuits,17,0.14,0.87,0.92,0.74
+The Company develops and sells quantum key distribution products,17,0.14,0.87,0.96,0.70
+Rigetti has developed the industrys first multi-chip quantum processor for scalable quantum computing systems,17,0.14,0.87,0.93,0.71
+"IBM has a 127-qubit quantum computer today, with plans for a 433-qubit model in 2023 and more than 4,000",29,0.16,0.86,0.92,0.59
+Applications built on Q,26,1.00,1.00,1.00,0.00
+while customer participation in platform Q&A services is low,16,0.15,0.93,0.92,0.75
+The two biggest public cloud platforms in the world now provide Rigetti quantum computers,23,0.10,0.91,0.94,0.62
+Rigetti has developed the industry’s first multi-chip quantum processor for scalable quantum computing systems,17,0.14,0.87,0.95,0.62
+"Additionally, many well-established players based in North America are focusing on development of new technology in quantum",32,0.14,0.85,0.90,0.70
+our mission to build the first scalable quantum networks,26,1.00,1.00,1.00,0.00
+The company provided a Q,31,1.00,1.00,1.00,0.00
+The measurement-based estimator scheme for continuous quantum error correction was developed by them,14,0.35,0.93,0.98,0.38
+offering the foundational technologies needed for organizations around the world to build scalable and powerful distributed quantum systems,36,0.23,0.93,0.93,0.89
+disruptive cyberattacks powered by quantum computing are a key cybersecurity threat of the future,2,0.08,0.85,0.93,0.91
+silicon-based quantum technology has started being developed,14,0.35,0.93,0.98,0.38
+This was essential for realizing the practical quantum network,22,0.02,0.90,0.95,0.69
+IIT-M researchers will lead advancement of research in the application of quantum computing with support from IBM Research India to such domains that are relevant to India,2,0.08,0.85,0.91,0.95
+"For Amazon, the hope is to be able to research and develop the support infrastructure for quantum computers alongside the computer",22,0.02,0.90,0.92,0.91
+"quantum memory technology to enable new hardware, software, and applications for quantum networks that",15,0.02,0.86,0.94,0.56
+"The first real-world application of the quantum internet is genuinely secure, unhackable communication",2,0.08,0.85,0.92,0.99
+that quantum computing applications are extremely limited,13,0.07,0.78,0.94,0.67
+Techniques regarding quantum transducers are provided,25,0.03,0.82,0.93,0.70
+"Several quantum sensors have been developed and incorporated into today’s space technology, as a result of such applications",17,0.14,0.87,0.93,0.68
+"The research is supported by the Gordon and Betty Moore Foundation's Emergent Phenomena in Quantum Systems Initiative, and was also",22,0.02,0.90,0.96,0.58
+Abstract       Quantum circuit model is the most popular paradigm for implementing complex quantum computation,22,0.02,0.90,0.94,0.74
+A Q&A facility will be available on the day via Webex Chat,16,0.15,0.93,0.99,0.41
+this investment in quantum sensors will drive increased engagement between the Burlington campus and the leading quantum companies,22,0.02,0.90,0.93,0.95
+"For instance, multinational tech services firm Capgemini announced Q-Lab, a quantum computing laboratory in January this year, in partnership with IBM",7,0.03,0.77,0.90,0.64
+The movement built around Q posts,36,0.23,0.93,0.97,0.50
+Computing gain from quantum computing will be orders of magnitude faster than what,2,0.08,0.85,0.91,0.97
+"because so many nations are racing to develop quantum technology, it is possible a researcher",39,0.14,0.93,0.95,0.71
+a three-year project to build a 50-qubit quantum computer by 2024 under the stewardship of VTT Technical Research Centre of Finland,19,0.03,0.83,0.93,0.99
+The Fund’s Forms N-Q and N-PORT reports are available on the SEC’s website,21,1.00,1.00,1.00,0.00
+"in-the-middle quantum stations, which can also be set out in a non-chain configuration to build a quantum network",19,0.03,0.83,0.92,0.78
+we aim to provide a fair comparison of their performance for quantum cryptography,25,0.03,0.82,0.90,0.66
+The National Quantum Office’s collaboration with the Finnish quantum ecosystem is a tremendous opportunity to develop competitive and world-leading quantum technologies,39,0.14,0.93,0.95,0.82
+Advancements in quantum computing are essential for any nation’s digital economy,22,0.02,0.90,0.91,0.90
+The Funds Forms N-Q and Form N-PORT reports are available       on the SECs,22,0.02,0.90,0.92,0.75
+The Fund’s Forms N-Q and N-PORT are available on the SEC’s website,21,1.00,1.00,1.00,0.00
+"Brian Dixon, who succeeded the firm’s co-founders TechCrunch conducted a Q",22,0.02,0.90,0.90,0.94
+Integrating qubit materials with existing industrial-scale foundries is a significant challenge in developing quantum processors,2,0.08,0.85,0.91,0.99
+EeroQ is developing single-electron quantum computing hardware,20,0.04,0.89,0.96,0.60
+The startup notes its qubits are still in an early stage compared to other technologies,22,0.02,0.90,0.90,0.88
+"Archer is developing the12CQ chip, a world-first qubit processor technology, that could potentially allow for quantum computing",15,0.02,0.86,0.93,0.79
+"She added that IBM is also researching quantum AI, but that is much farther",22,0.02,0.90,0.92,0.88
+the most compelling aspect of the quantum revolution is the recent emergence of programs to develop national quantum computing centers,39,0.14,0.93,0.94,0.98
+He added integrating qubit materials with industrial-scale foundries is a “significant challenge” in developing quantum processors,2,0.08,0.85,0.92,0.99
+of building a quantum computer falls over the next 10 years,29,0.16,0.86,0.90,0.63
+One way to build a qubit,36,0.23,0.93,0.95,0.61
+"Finally, as well as the challenges around implementing quantum computing, we can’t ignore the challenges that the technology will potentially create itself when it is widespread",0,-0.04,0.84,0.90,0.87
+Bass Coast Shire CEO Ali Wastie will be the MC and facilitate the Q&A session,16,0.15,0.93,0.91,0.99
+This research has been crucial to understanding and developing quantum computers,22,0.02,0.90,0.94,0.76
+Multiverse's Singularity SDK is a front-runner in delivering intuitive quantum software,2,0.08,0.85,0.91,0.77
+the effort to build quantum computers,36,0.23,0.93,0.96,0.57
+"The College Park, Maryland-based company develops quantum computers, including the IonQ Aria,",17,0.14,0.87,0.93,0.72
+The National Quantum Office’s collaboration with the Finnish quantum ecosystem is a tremendous opportunity to develop competitive and world leading quantum technologies,39,0.14,0.93,0.95,0.82
+Quantum architecture Microsoft is developing quantum simulations and materials,17,0.14,0.87,0.97,0.68
+"As it stands, Sky Q is available right now, with prices starting from just £26",16,0.15,0.93,0.91,0.76
+This week it made a big splash with an announcement it had developed a superconducting quantum machine,30,0.11,0.86,0.91,0.86
+Multiverse’s Singularity SDK is a front-runner in delivering intuitive quantum software,2,0.08,0.85,0.91,0.77
+Governments and companies alike are thus rushing to develop quantum computing,39,0.14,0.93,0.95,0.75
+"While Baidu’s recently announced quantum computer is only 10 qubits, the company claims to have also developed a 36 qubit chip",2,0.08,0.85,0.90,0.88
+"most startup funding at $148.2 million to develop its 1,024-qubit quantum processor by 2025",20,0.04,0.89,0.90,0.78
+Further aspects provide a quantum computer comprising the device,25,0.03,0.82,0.91,0.82
+The National Quantum Office ’ s collaboration with the Finnish quantum ecosystem is a tremendous opportunity to develop competitive and world leading quantum technologies,39,0.14,0.93,0.95,0.82
+"at Q-NEXT, a research consortium focused on quantum information challenges",32,0.14,0.85,0.93,0.52
+"Moreover, numerous traditional cryptographic algorithms used by blockchain transaction networks are difficult to attack quantum computing",2,0.08,0.85,0.91,0.99
+"Meanwhile, cutting-edge technology in fields from artificial intelligence to quantum computing is mostly developed in other world regions",17,0.14,0.87,0.90,0.83
+how building a quantum internet to network quantum computers and quantum data might be a foundational system for the evolution of a quantum metaverse,2,0.08,0.85,0.91,0.81
+"QphoX is developing the world's first Quantum Modem (TM) , a breakthrough device that will allow the quantum computing industry to scale through connectivity and parallelization and unlock the potential of the Quantum Internet.",15,0.02,0.86,0.91,0.94
+"QphoX is developing the world's first Quantum Modem(TM), a breakthrough device that will allow the quantum computing industry to scale through connectivity and parallelization and unlock the potential of the Quantum Internet.",15,0.02,0.86,0.91,0.94
+facing quantum technologies is the time-frame in which error-corrected quantum computers will be developed,39,0.14,0.93,0.95,0.85
+Some prototypes of QPU with hundreds of qubits are already built,19,0.03,0.83,0.93,0.74
+"Of course they are far from ""commercially viable"" quantum computer, but with each day new quantum computers are built with increasing number of qubits",39,0.14,0.93,0.94,0.75
+Quantum technology in the first era (1st gen quantum) was developed,17,0.14,0.87,0.96,0.62
+"Hewlett Packard INC. AND SUBSIDIARIES       SEGMENT OPERATING MARGIN SUMMARY       (Unaudited)  Three months ended Change (pts) July 31, 2022 April 30, 2022 July 31, 2021 Q/Q Y/YSegment operating margin",35,1.00,1.00,1.00,0.00
+"HP INC. AND SUBSIDIARIES       SEGMENT OPERATING MARGIN SUMMARY       (Unaudited)  Three months ended Change (pts) July 31, 2022 April 30, 2022 July 31, 2021 Q/Q Y/YSegment operating margin",35,1.00,1.00,1.00,0.00
+"On August 25, 2022, Baidu announced its first superconducting quantum computer that fully integrates hardware, software, and applications",7,0.03,0.77,0.91,0.73
+Baidu also announced a plan to develop a 36-qubit quantum chip,7,0.03,0.77,0.91,0.77
+"Within the last year, there has been rapid convergence within organizations around plans to build large-scale quantum systems",39,0.14,0.93,0.97,0.57
+Economou’s Center for Quantum Information Science and Engineering focuses on researching quantum computing and communications,32,0.14,0.85,0.93,0.69
+To build quantum computers that are useful and available to people everywhere” — they are hiring for a ton of different roles that are relevant to people of varying backgrounds,39,0.14,0.93,0.90,0.89
+"To help organizations with their plans, NIST and the Department of Homeland Security developed the Post-Quantum Cryptography Roadmap",17,0.14,0.87,0.91,0.94
+"With a grant from the National Science Foundation, researchers from Indiana University (both Bloomington and IUPUI campuses), Purdue University and the University of Notre Dame will develop industry- and government-relevant quantum technologies as part of",17,0.14,0.87,0.92,0.81
+using powerful quantum computers is a major concern in the future,22,0.02,0.90,0.92,0.74
+"ColdQuanta, Inc., a US-based company that builds quantum computers and quantum sensing technologies,",19,0.03,0.83,0.92,0.77
+The Beijing-based company has also developed a 36-qubit quantum chip,20,0.04,0.89,0.97,0.59
+The current quantum computers are still limited in size because qubits (the building blocks of these computers; particles sometimes smaller than an atom) are extremely sensitive to disturbances,2,0.08,0.85,0.90,0.90
+"a conventional computer, and the technical challenges to build a usable quantum computing device are immense",39,0.14,0.93,0.96,0.58
+taking place in the UK now to develop quantum computers is the first step towards this exciting future,39,0.14,0.93,0.95,0.69
+Microsoft pioneered innovation in the quantum computing world recently by announcing they,13,0.07,0.78,0.94,0.67
+"The company harnesses quantum mechanics to build and integrate quantum computers, sensors, and networks",19,0.03,0.83,0.92,0.87
+Demand for the world’s first utility-scale quantum computers will be extreme,16,0.15,0.93,0.95,0.69
+"a handful of companies globally are developing quantum computers and Heaney has been working with IBMs quantum hardware and Qiskit software, supported by LAS, for three years",2,0.08,0.85,0.93,0.67
+"a computational operation on two quantum bits (a CNOT gate) and a logical T gate, which is particularly difficult to implement using fault-tolerant quantum bits",2,0.08,0.85,0.91,0.97
+"leading the United States’ efforts to deliver the first drone-based, mobile quantum network",25,0.03,0.82,0.90,0.84
+Applications of Quantum Dots       Quantum dots are semiconductor nanocrystals,16,0.15,0.93,0.99,0.42
+"We managed to build a couple quantum processors from scavenged parts,",36,0.23,0.93,0.92,0.69
+"in advanced manufacturing, we seek to partner the industry to develop more quantum devices for solving real-world challenges",17,0.14,0.87,0.91,0.76
+The goal of the programme is to develop more quantum devices to solve real-world challenges,34,-0.08,0.81,0.90,0.92
+"is the integer factorization method based on a nuclear magnetic resonance (NMR) quantum processor, which is used to realize small quantum computer technology",22,0.02,0.90,0.93,0.78
+"Since this announcement, companies have continued to advance their quantum computing capabilities",13,0.07,0.78,0.94,0.67
+SEEQC is developing the first fully digital quantum computing platform for global businesses,14,0.35,0.93,0.98,0.38
+we provide a quantum       algorithm to implement the Petz recovery channel,25,0.03,0.82,0.93,0.84
+"In this article, we provide a new continuous-time quantum",31,1.00,1.00,1.00,0.00
+"IonQ claims to ""develop quantum computers designed to solve the world's most complex problems",34,-0.08,0.81,0.94,0.86
+"Zapata Computing, Inc. builds quantum-ready applications(R) for enterprise on Orquestra(R),",19,0.03,0.83,0.92,0.70
+"Quantum Exponential Group plc (AQUIS: QBIT), a company focused on investing in quantum technology",32,0.14,0.85,0.95,0.64
+The Co-Design Center for Quantum Advantage and its affiliated researchers are leaders in advancing quantum-based applications through scientific research,2,0.08,0.85,0.92,0.86
+the power that's related to the number of qubits,29,0.16,0.86,0.92,0.61
+"IonQ purports to ""develop quantum computers designed to solve the world's most complex problems",34,-0.08,0.81,0.94,0.86
+The noisy intermediate-scale quantum (NISQ) devices enable the implementation       of the variational quantum circuit (VQC) for quantum neural networks,15,0.02,0.86,0.91,0.65
+They are providing the missing component to build technologically and economically effective quantum networks,25,0.03,0.82,0.91,0.80
+Xanadu is a Canadian quantum technology company with the mission to build quantum computers that are useful and available to people everywhere,39,0.14,0.93,0.95,0.77
+the first European country to develop a quantum computer,17,0.14,0.87,0.91,0.80
+"Even if we are successful in developing quantum computing systems and executing on our strategy, competitors in       the industry may achieve technological breakthroughs",22,0.02,0.90,0.92,0.99
+Quantum computing is in its relative infancy as a technology,22,0.02,0.90,0.94,0.70
+"Furthermore, from an experimental perspective, it is difficult to build a quantum computing device",2,0.08,0.85,0.91,0.72
+"Quantum computing will enable much faster data processing speeds, meaning more data can be processed and more complex models can be developed",15,0.02,0.86,0.91,0.86
+"In parallel with advancing the H-series hardware capabilities, Quantinuum also develops the software and algorithms to be used on quantum computers",17,0.14,0.87,0.95,0.69
+QuPharm intends to build and deliver a full-stack quantum computer for pharmaceutical drug development,36,0.23,0.93,0.94,0.63
+Quantum Brilliance is developing diamond-based quantum computers that are smaller than mainframe quantum computers and operate under less extreme conditions than most quantum systems,39,0.14,0.93,0.95,0.78
+Its role would be to deliver the quantum keys that provide security for quantum encryption of communications,25,0.03,0.82,0.91,0.75
+Shor’s algorithm is developed,20,0.04,0.89,0.92,0.76
+"Quantum Source (QS) is located in Rehovot, Israel, and is developing breakthrough technology to enable a commercially viable photonic quantum computer with millions of qubits",15,0.02,0.86,0.90,0.90
+the most exciting application of near-term quantum computers is the simulation of materials,2,0.08,0.85,0.91,0.81
+planqc is building quantum computers that store information in individual atoms –,19,0.03,0.83,0.95,0.70
+It is great to see the NIST post-quantum cryptography standardization effort,16,0.15,0.93,0.91,0.79
+"aiming to have developed individual, fully integrated QPUs offering hundreds of qubits networked together",17,0.14,0.87,0.92,0.76
+"TN-QVM implements a number of advanced quantum circuit simulation methods, where each method creates,",14,0.35,0.93,0.92,0.68
+QuiX Quantum’s processors are already world leading and ideally suited to create the most powerful photonic quantum computer we have yet seen,22,0.02,0.90,0.90,0.98
+"of developing good quality quantum processing units, it is the moment to       rethink the approach to advance quantum computing research",22,0.02,0.90,0.91,0.82
+We set out to build a quantum computer capable of solving real-world problems,19,0.03,0.83,0.92,0.91
+IonQ's ability to further develop and advance its quantum computers,20,0.04,0.89,0.94,0.74
+"As a result, we develop       tools which provide tight performance bounds for quantum networks constituent       of channels whose capacities are not exactly known, and reveal critical network       properties which are necessary for high-rate quantum communications",0,-0.04,0.84,0.91,0.81
+"The first step, of course, is building a practical quantum computer",36,0.23,0.93,0.98,0.42
+"However, quantum computing is still in its early stages, and there are many unknowns about the industry",22,0.02,0.90,0.93,0.71
+Telecom Italia became the first telecommunications operator in Europe to implement quantum computing algorithms in planning its next-generation mobile networks,38,0.05,0.83,0.90,0.69
+"D-Wave Systems Inc. (""D-Wave"") is a leader in the development and delivery of quantum computing systems, software, and services and is the only company building both annealing quantum computers and gate-model quantum computers",2,0.08,0.85,0.91,0.84
+"International Business Machines Corporation (NYSE: IBM) has released its quantum computing roadmap, including plans for four new quantum processors",13,0.07,0.78,0.91,0.69
+"However, to harness this security promise, the implementation of QKD must be immaculate, from the construction of quantum devices to side-channel attacks, which is a major challenge in practice",2,0.08,0.85,0.91,0.74
+"To be specific, the institute is building experiment platforms for dark matter and neutrinos, laboratory astrophysics, and topological superconducting quantum computing as well as a large public computing platform and studying extreme states of matter",0,-0.04,0.84,0.91,0.93
+"In a very real sense, the push to build a viable quantum computer",36,0.23,0.93,0.91,0.72
+"Quantum processors, however, are early in their development and to promote and accelerate innovation it is crucial",22,0.02,0.90,0.93,0.97
+"The National Science Foundation Research Traineeship Program (NRT) awarded a $3 million Collaborative Grant to the University of Georgia (UGA) and the University of Tennessee, Knoxville, to develop a Quantum Networks",17,0.14,0.87,0.93,0.69
+"$199,221 grant to Kenyon College to fund research in quantum computing",13,0.07,0.78,0.94,0.67
+commenting on a recent agreement between the company and Mastercard to build innovative quantum computing applications,36,0.23,0.93,0.96,0.52
+"Moreover, we identify novel physics-informed performance       metrics and controls that enable QCNs to leverage the state-of-the-art       advancements in quantum technologies to enhance their performance",15,0.02,0.86,0.90,0.84
+"Apart from Qian Shi, Baidu has recently developed the design of a 36-qubit superconducting quantum chip",20,0.04,0.89,0.97,0.59
+The Institute for Quantum Computing at Baidu Research aims at building full-stack quantum software and hardware solutions and focuses on the breakthrough in fundamental Quantum research,32,0.14,0.85,0.91,0.66
+A recent study developed a novel photocatalytic quantum,20,0.04,0.89,0.96,0.68
+"On quantum computing, he added, “Quantum computing is still in its early stages of development, but it has the potential to revolutionize digital transformation",39,0.14,0.93,0.90,0.80
+quantum blockchains are still in their early stages and have not yet been implemented into mainstream use,22,0.02,0.90,0.91,0.96
+Baidu has also developed the design of a 36-qubit superconducting quantum chip recently,20,0.04,0.89,0.97,0.59
+there are more curious scientists and engineers who have chosen this field because they want to build quantum computers,39,0.14,0.93,0.93,0.78
+"To develop new quantum devices, including quantum computers, sensors, and networks,",17,0.14,0.87,0.90,0.86
+"China, US and the EU have initiated projects in quantum computing, but current real-world applications are still very basic and limited to a small group of people",2,0.08,0.85,0.91,0.85
+you advance into Quantum computing,13,0.07,0.78,0.94,0.67
+Quantum computers may use quantum bits or qubits rather than traditional bits to store information,29,0.16,0.86,0.91,0.67
+UCLA-led team develops new approach for building quantum computers,20,0.04,0.89,0.94,0.74
+"The supercomputer, named Qian Shi, offers a quantum computing service to the public with 10 quantum bits (qubits) of power",13,0.07,0.78,0.95,0.47
+A quantum Turing machine is a theoretical model,22,0.02,0.90,0.92,0.91
+The grant will provide a boost to QS’ work developing and commercializing its INFIQ quantum,25,0.03,0.82,0.90,0.69
+Microwave-optics entanglement is a vital component for building hybrid quantum networks,2,0.08,0.85,0.92,0.89
+QCI has developed a room-temperatureEntropy Quantum System (EQC) for solving real world business problems,17,0.14,0.87,0.97,0.63
+The division is developing quantum hardware as well as software that can run on quantum chips,17,0.14,0.87,0.97,0.64
+"Google has stated that its goal is to build a “useful, error-corrected” quantum computer",26,1.00,1.00,1.00,0.00
+quantum        IQM teams to develop application-specific quantum processors,17,0.14,0.87,0.96,0.73
+"Within Reach       Baidu, Inc. (""Baidu"" or the ""Company""), a leading AI company with strong Internet foundation, today announced its first superconducting quantum computer that fully integrates hardware, software, and applications",7,0.03,0.77,0.91,0.62
+a mechanism designed to improve ALGO’s future in a post-quantum computing world,33,0.78,0.98,1.00,0.11
+Quantum computing is advancing,16,0.15,0.93,0.97,0.58
+"Baidu announced its first superconducting quantum computer that fully integrates hardware, software, and applications",7,0.03,0.77,0.91,0.73
+The Beijing-based company has also developed a 36-qubit quantum system,20,0.04,0.89,0.96,0.68
+"ColdQuanta develops quantum devices and quantum information platforms based on cold-atom technology,",17,0.14,0.87,0.95,0.61
+they are working on quantum computing,13,0.07,0.78,0.94,0.67
+QpiAI is the first Indian quantum computing company to develop a full-stack quantum computer with integrated quantum and AI solutions,39,0.14,0.93,0.97,0.63
+A first aspect provides a topological quantum computing device comprising a network of semiconductor-superconductor nanowires,25,0.03,0.82,0.91,0.64
+QpiAISense™ AI enabled Qubit control system,15,0.02,0.86,0.93,0.56
+"Recent advances in silicon-based qubits have enabled the implementations of high-quality one-qubit and two-qubit systems6,",15,0.02,0.86,0.91,0.85
+It has partnered with Riken to build a 64-qubit superconducting machine,36,0.23,0.93,0.96,0.57
+New modes of quantum sensing will be made possible by combining advances in system,30,0.11,0.86,0.94,0.65
+Microsoft are trying to build a quantum computer that has ‘quantum supremacy,19,0.03,0.83,0.95,0.87
+"They've developed early-stage quantum computers, and we're working with them",29,0.16,0.86,0.90,0.63
+The first nation to develop a cryptanalytic ally relevant quantum computer (CRQC) will be capable,39,0.14,0.93,0.94,0.78
+Fujitsu says it will be the first Japanese company to build a quantum computer,0,-0.04,0.84,0.92,0.93
+"To accelerate the adoption of quantum technologies, Indian IT companies are actively partnering with startups, companies and technical institutions to provide the know-how in quantum physics, setting up labs, and nurturing talent to build quantum applications",4,-0.08,0.79,0.93,0.81
+The company partnered with AWS in September last year to develop quantum computing capabilities and use cases,20,0.04,0.89,0.96,0.68
+Experts worldwide are attempting to incorporate findings from basic research into quantum technologies,22,0.02,0.90,0.90,0.94
+"Earlier this year, IonQ also launched its 32-qubit quantum computer",29,0.16,0.86,0.90,0.63
+qubits can be used in a state,29,0.16,0.86,0.92,0.61
+"on quantum computing, the company also is developing health solutions with its A1 Biochip based on chip technology that incorporates graphene",2,0.08,0.85,0.90,0.76
+One of the most sought-after applications of quantum computing is the simulation of physical processes,2,0.08,0.85,0.92,0.79
+"Improvements in quantum hardware, algorithms, and techniques provide significant speed-up over conventional technology models",25,0.03,0.82,0.93,0.57
+it shows that the UK is ready to be a leader in cutting-edge research that encourages high-risk discoveries with an aim to demonstrate how quantum technology can solve long-standing questions in fundamental physics,0,-0.04,0.84,0.90,0.82
+Such entanglement is the fundamental resource to build a quantum network and quantum repeaters,2,0.08,0.85,0.91,0.95
+photonic circuits are key components for photonic quantum technologies and for the implementation of chip-based quantum devices,2,0.08,0.85,0.93,0.69
+A quantum circuit is a quantum computing model using quantum gates,2,0.08,0.85,0.95,0.93
+there is an opportunity to evolve more qubits,22,0.02,0.90,0.95,0.86
+There are many ways to realize quantum computing at present,22,0.02,0.90,0.92,0.85
+"Nvidia is also developing quantum computing now, but it uses quantum simulation or GPU computing",17,0.14,0.87,0.94,0.65
+"Just like quantum computing, even if it sounds obscure, it is essentially just an effective computing power tool",2,0.08,0.85,0.93,0.81
+"The company harnesses quantum mechanics to build and integrate quantum computers, software, sensors, and networks",19,0.03,0.83,0.92,0.87
+Such entanglement is the fundamental resource to build quantum network and quantum repeaters,2,0.08,0.85,0.91,0.95
+Chou will help support IonQ’s work to build the world’s best quantum computers,34,-0.08,0.81,0.92,0.84
+A recent contribution to the area of research focused on the establishment of a quantum internet,32,0.14,0.85,0.92,0.67
+"Multiverse Computing, which delivers quantum computing solutions, and Ikerlan, a technology transfer centre in Spain, developed a quantum-enhanced kernel method for classification on universal gate-based quantum computers,",4,-0.08,0.79,0.90,0.92
+Quantum computers are now much faster than conventional computers and large brands of computers are now making significant advances in quantum computing,2,0.08,0.85,0.90,0.88
+"On the other front, recently, there has been extensive technological developments in building the so-called quantum computers",22,0.02,0.90,0.91,0.77
+it is that America develop viable quantum systems before its adversaries,39,0.14,0.93,0.94,0.81
+"also announced a Quantum Simulator (QSim), with which it aims to aid research in quantum computing",7,0.03,0.77,0.91,0.53
+The company is also developing a quantum gate system,20,0.04,0.89,0.97,0.56
+a superconducting resonator provides a mechanism to enable long-distance entangling operations in a quantum computer based on spins in semiconducting materials,25,0.03,0.82,0.91,0.93
+The broad and long-term aim is to develop Europe’s Quantum Internet,20,0.04,0.89,0.96,0.63
+a team from Deloitte and Curtin University won the Peter Fillery Undergraduate Tertiary Student Project for their quantum computing interface,13,0.07,0.78,0.91,0.63
+"Last year, I had the privilege to be part of a group that developed governance principle on quantum computing",39,0.14,0.93,0.94,0.84
+"Archer is developing the CQ chip, a world-first qubit processor technology, that could potentially allow for quantum computing",15,0.02,0.86,0.92,0.84
+company to develop qubit processor technology,20,0.04,0.89,0.96,0.59
+Rigetti expects to utilize each award alongside its partners to make advancements within critical areas of quantum computing,30,0.11,0.86,0.91,0.77
+"I had thought leveraging quantum entanglement to transmit data might address this challenge, but that doesn’t seem to be the case",0,-0.04,0.84,0.90,0.94
+A network of active companies that want to build or use quantum computers is to be created at the university,19,0.03,0.83,0.91,0.81
+Q-CTRL’s mission is to make quantum technology useful,30,0.11,0.86,0.91,0.66
+"In recent years, there has been a substantial amount of research on quantum computers",22,0.02,0.90,0.94,0.67
+panel to make it quantum dot,30,0.11,0.86,0.90,0.60
+"we are developing a fully digital quantum computing platform for businesses,",20,0.04,0.89,0.96,0.63
+There are several ways to build a quantum computer,39,0.14,0.93,0.97,0.82
+These ideas were still inherently limited and so came the concept of Quantum Computation,22,0.02,0.90,0.91,0.81
+One remaining challenge is the quantum error correction cycle,16,0.15,0.93,0.91,0.75
+"quantum computers are to be developed, built and operated",17,0.14,0.87,0.91,0.84
+His research is in the areas of parallel computer architecture and quantum computing,22,0.02,0.90,0.97,0.55
+Singapore aims to improve its quantum computing capabilities through new initiatives,4,-0.08,0.79,0.92,0.85
+to actually build a real quantum computer was beginning at the company,36,0.23,0.93,0.98,0.45
+The major shortcoming of ADAPT-VQE is an overhead in the number of measurements on quantum devices compared to VQE-UCCSD,2,0.08,0.85,0.90,0.97
+"It is also actively collaborating with the industry and academia to develop quantum computing applications for communications and cryptography, they added",20,0.04,0.89,0.91,0.89
+it is critical to understand the basis for potential exponential quantum advantage in quantum chemistry,0,-0.04,0.84,0.91,0.80
+"Rigetti Computing (RGTI) said Thursday its subsidiary won a contract from the Defense Advanced Research Projects Agency to ""develop benchmarks for quantum application performance on large-scale quantum computers",24,0.03,0.79,0.91,0.72
+"Quantum Measurement and Control for the Enablement of Quantum Computing and Quantum Sensing (QuMeCo) will ignite basic research into quantum computing,",13,0.07,0.78,0.91,0.66
+"the Defense Advanced Research Projects Agency, DARPA, to develop benchmarks for quantum application performance on large-scale quantum computers",17,0.14,0.87,0.97,0.62
+Los Alamos National Laboratory (LANL) also built a quantum network using an approach,36,0.23,0.93,0.97,0.49
+Realizing quantum computing (QC) will be important for use cases in banking,22,0.02,0.90,0.92,0.81
+"Mphasis, on its part, has developed a EON (Energy Optimized Network) quantum computing framework, which is patent-pending right now",39,0.14,0.93,0.96,0.78
+"Mphasis, on its part, has developed a EON (Energy Optimized Network) quantum computing framework, for which it has applied for patent",14,0.35,0.93,0.90,0.73
+that most of the Chinese work is on superconducting qubits,22,0.02,0.90,0.93,0.76
+there are any applications of quantum computers yet,22,0.02,0.90,0.90,0.87
+Bosch and Multiverse are developing a quantum software platform that can be used with various quantum computing technologies,17,0.14,0.87,0.92,0.69
+Atlantic Quantum is developing fault-tolerant superconducting quantum systems,17,0.14,0.87,0.91,0.71
+Research and education are imperative now in the development of disruptive quantum technologies,22,0.02,0.90,0.95,0.67
+"The expansion is the result of a joint venture with QTD Systems, which acquired the facility from Equinix and plans to use part of the space to develop quantum computing technology",39,0.14,0.93,0.91,0.73
+"In fact, Dell has built a hybrid classical-quantum system that allows customers to experiment with classical-quantum computation all the way from simulation to true hybrid computation",3,0.02,0.76,0.90,0.81
+"more or less, I started working on quantum computing",13,0.07,0.78,0.94,0.67
+A quantum computer has been built by an Innsbruck researcher that is reported to be more powerful and capable of handling more states,39,0.14,0.93,0.95,0.73
+Australian researchers to build apps for Google quantum computer,19,0.03,0.83,0.94,0.69
+Software for quantum computing is still in its infancy,2,0.08,0.85,0.90,0.93
+The four universities have pledged to develop industrial applications for Google’s US-based quantum computer which is currently under construction,39,0.14,0.93,0.94,0.73
+"Google’s collaboration with the universities will underpin its long-term goal to develop bigger, more sophisticated quantum algorithms that can be used in applications such as machine learning and artificial intelligence, making quantum computing useful to the company’s core business",10,-0.04,0.69,0.92,0.87
+"Recent advances in quantum repeater technology have made long-distance, noise-resilient quantum communication possible7,",30,0.11,0.86,0.91,0.65
+we decided to build our own Q&A community into the platform,36,0.23,0.93,0.97,0.51
+"you wanted to build a quantum computer with 1,000 bits and could control them",36,0.23,0.93,0.96,0.57
+the number of qubits is limited to two digits (except for IBM’s exploratory 127-qubit Eagle system.)       Quantum Annealing,29,0.16,0.86,0.92,0.61
+"a task appears to be, in a quantum world",16,0.15,0.93,0.98,0.57
+until sufficiently powerful quantum systems are available to decrypt it,2,0.08,0.85,0.92,0.86
+"along the development of this technology, it is now important to discuss ‘practical quantum advantage’, the point at which quantum devices will solve problems of practical interest that are not tractable for traditional supercomputers",0,-0.04,0.84,0.91,0.82
+of performing a quantum computation on a quantum system is provided,23,0.10,0.91,0.96,0.54
+There have been recent developments in quantum,16,0.15,0.93,0.98,0.57
+"In this work, we set out to demonstrate that quantum computing methods could be better at simulating the properties of materials used in the best displays",2,0.08,0.85,0.91,0.85
+"The center will additionally provide the Israeli quantum computing community, both industry and academia, with a full-stack quantum computer",23,0.10,0.91,0.91,0.65
+when fault-tolerant quantum computing (FTQC) becomes available,22,0.02,0.90,0.90,0.84
+This will only worsen with advances in AI and quantum computing,13,0.07,0.78,0.94,0.67
+you wanted to build a quantum computer with 1000 bits and you could control all of them,36,0.23,0.93,0.96,0.57
+As of now Quantum Computers provides as a service as other cloud computing platforms,25,0.03,0.82,0.92,0.78
+Quantum computing is still in its early stages,16,0.15,0.93,0.97,0.58
+Quantum Machines partners with ORCA to build Israeli Quantum Computing Centre,36,0.23,0.93,0.97,0.49
+We developed a quantum computer that can use these atoms,17,0.14,0.87,0.91,0.82
+"research and development of new technologies such as ""quantum cryptography"" and film-type solar cells, which are theoretically absolutely unbreakable, will be carried out",2,0.08,0.85,0.90,0.81
+"quantum computers were still in their embryonic state, the NSA explained",22,0.02,0.90,0.93,0.72
+"The Engine-led investment fuels company’s mission to build scalable, fault-tolerant superconducting quantum computing systems",19,0.03,0.83,0.94,0.90
+Atlantic Quantum believes that fault-tolerant quantum hardware is the key to making progress in quantum computing,0,-0.04,0.84,0.92,0.83
+"They say the discovery could alter the way we think about matter, while also helping to build quantum computers that",24,0.03,0.79,0.91,0.78
+other systems currently used in quantum computers,29,0.16,0.86,0.90,0.63
+Wells Fargo started its venture into quantum computing by signing an agreement with IBM,13,0.07,0.78,0.94,0.67
+Quantum computers are powered by qubits,29,0.16,0.86,0.99,0.42
+NVIDIA says leading quantum organisations are already using the company’s GPUs and highly specialised software (NVIDIA cuQuantum) to develop individual quantum circuits,17,0.14,0.87,0.90,0.74
+Leading the quantum computing project is Quantum Machines,22,0.02,0.90,0.94,0.73
+Embodiments of the present disclosure provide for passivated quantum dots,23,0.10,0.91,0.92,0.74
+"AWS has just set up a quantum networking center that is intended to build ""hardware, software, and applications for quantum networks",19,0.03,0.83,0.91,0.75
+material characterization tool for targeting the reproducibility challenge that is crucial for realizing spin-based quantum computers,22,0.02,0.90,0.93,0.71
+"To build your quantum program, you can use Cirq",19,0.03,0.83,0.95,0.72
+efforts to build a practical quantum computer,36,0.23,0.93,0.98,0.42
+the Israel Innovation Authority (IIA) to lead the establishment of the Israel Quantum Computing Center,13,0.07,0.78,0.93,0.57
+the IQubitNet project aims to develop quantum repeater devices that,20,0.04,0.89,0.96,0.59
+"its collaborative achievement""China has built an integrated space-to-ground quantum communication network",36,0.23,0.93,0.93,0.86
+Israel's first fully functioning quantum computer that is available,22,0.02,0.90,0.92,0.98
+"The center will provide R&D services to the entire Israeli innovation ecosystem, for developments such as designated quantum processors for various algorithms,",23,0.10,0.91,0.91,0.66
+We are quite familiar with the quantum world as we are developing technology like quantum computers,39,0.14,0.93,0.91,0.88
+"Today, a handful of quantum computing systems are available for use by researchers and developers via a cloud network",2,0.08,0.85,0.92,0.94
+"D-Wave Systems, which is merging with DPCM Capital, Inc., is the leader in the development and delivery of quantum computing systems, software, and services",2,0.08,0.85,0.91,0.84
+as improving qubits so they can be used,29,0.16,0.86,0.92,0.61
+by U.S. science agencies to develop new quantum technologies and make new discoveries,39,0.14,0.93,0.92,0.79
+Its purpose isn’t to be the most powerful quantum computer in the world,22,0.02,0.90,0.92,0.76
+it’s also important to recognize that quantum technology is far from a single entity,2,0.08,0.85,0.92,0.99
+"They are ideal for the construction of scalable, distributed quantum computers",2,0.08,0.85,0.91,0.75
+"While most quantum computing projects are still in the developmental stages, it is much better",22,0.02,0.90,0.95,0.73
+quantum computing as algorithms are developed and discovered,20,0.04,0.89,0.96,0.68
+While previous attempts to build a secure quantum computer network have been limited to just two machines,26,1.00,1.00,1.00,0.00
+"Google is on its way to building its own quantum computer, with IM qubit capacity",39,0.14,0.93,0.94,0.83
+we want quantum computing,13,0.07,0.78,0.94,0.67
+We are building quantum processors out of the neutral atom technology,19,0.03,0.83,0.95,0.61
+"With the rapidly ongoing research in quantum computing, the need for post-quantum security is emerging",0,-0.04,0.84,0.90,0.90
+"Quantinuum, which has developed a 20-qubit machine based on a trapped-ion architecture,",30,0.11,0.86,0.93,0.74
+Quantum Brilliance is a venture-backed quantum products and solutions company developing diamond quantum computers supported by software and applications,16,0.15,0.93,0.90,0.84
+"Zapata Computing, Inc. builds quantum-ready applications® for enterprise on Orquestra®,",19,0.03,0.83,0.92,0.70
+Getting there requires developing qubit technologies that can be built at a massive scale while controlling a growing number of qubits and maintaining quantum error levels,19,0.03,0.83,0.90,0.83
+"The present disclosure provides a semiconductor quantum chip,",23,0.10,0.91,0.95,0.55
+The present disclosure further provides a preparation method for the semiconductor quantum chip,23,0.10,0.91,0.92,0.71
+Toshiba partnered with Safe Quantum to develop new quantum key distribution and quantum communications technologies,17,0.14,0.87,0.94,0.65
+"against certain problem sets, quantum computers enable entirely new capabilities",15,0.02,0.86,0.94,0.58
+Scientists here on Earth are already hard at work trying to develop a a quantum internet network,39,0.14,0.93,0.92,0.82
+"IBM Quantum is the industry-first initiative to develop universal quantum computers for business, engineering, and science",2,0.08,0.85,0.93,0.88
+Qubits       Quantum computers work on qubits,29,0.16,0.86,0.92,0.61
+Takeaway       Quantum computing is still in its infancy stage,22,0.02,0.90,0.92,0.81
+"With more than $135M in funding, the Toronto-based company’s platform (“The first Photonic Quantum Computer on the Cloud”) leverages advanced artificial intelligence to integrate quantum silicon photonic chips into existing hardware to create a full-stack quantum computer",17,0.14,0.87,0.90,0.92
+the work developed around the concept of oblivious transfer within theoretical quantum cryptography,20,0.04,0.89,0.97,0.57
+Toyota Tsusho’s customers to develop in-house quantum computing capabilities,15,0.02,0.86,0.91,0.84
+"to these powerful systems, software companies are developing ready-to-run quantum software that eliminates the need for complex quantum programming and enables subject matter experts with no quantum expertise to solve real-world business problems",3,0.02,0.76,0.90,0.91
+Building a useful quantum computer is very complex,16,0.15,0.93,0.99,0.43
+"it’s quantum error correction that makes quantum computers useful, so",30,0.11,0.86,0.91,0.62
+I’ve been working on quantum computing for 15 years,13,0.07,0.78,0.94,0.67
+Oxford Ionics has developed a unique electronic qubit control (EQC) technology which will enable processors with hundreds of qubits within the next five years,15,0.02,0.86,0.93,0.73
+"Oxford Ionics is the high-performance quantum computing company, delivering world-leading innovations to create the most powerful, accurate and reliable quantum computers",0,-0.04,0.84,0.90,1.00
+"research institutions and companies are developing quantum computers, such as the IBM Quantum System One",17,0.14,0.87,0.91,0.75
+ORCA Computing develops photonic quantum computing systems and software,17,0.14,0.87,0.92,0.81
+commitments to developing quantum computing,20,0.04,0.89,0.96,0.68
+"Since the launch of the first commercially available quantum computer in the UK, we have continued to be very",21,1.00,1.00,1.00,0.00
+"We are developing the ""Quantum Computing User Network"" (QuCUN), i.e.",14,0.35,0.93,0.98,0.38
+"on developing business and industry in the U.K.       “Since launching the UK’s first commercially-available quantum computer, we have continued to be highly",21,1.00,1.00,1.00,0.00
+"June 30, 2022       planqc in Germany has raised €4.6m to develop a highly scalable room temperature  quantum computer",20,0.04,0.89,0.94,0.74
+SQC is Australias world leading Quantum company developing a silicon-based quantum computer,22,0.02,0.90,0.96,0.64
+"Murray Thom       D-Wave Systems Inc., is the only company in the world to build both quantum annealing and gate-based quantum computers",39,0.14,0.93,0.97,0.79
+Your users might be surprised to hear this but quantum computing in the cloud is stable right now,2,0.08,0.85,0.91,0.88
+"metal surfaces is one of the most exciting frontiers in nanophysics, enabling us to realize novel single molecular logic devices and quantum information processing",2,0.08,0.85,0.90,0.84
+D-Wave Systems Inc. is the only company in the world to build both quantum gates and quantum,39,0.14,0.93,0.98,0.50
+the U.S. hatches plan to build a quantum Internet that might be unhackable,39,0.14,0.93,0.92,0.87
+Silex has partnered with SQC with an aim to build a silicon quantum computer in the future,26,1.00,1.00,1.00,0.00
+"Quantum Source       Quantum Source (QS) is located in Rehovot, Israel, and is developing breakthrough technology to enable a commercially viable photonic quantum computer with millions of qubits",15,0.02,0.86,0.90,0.90
+Planqc will use the funds to build scalable quantum computers,36,0.23,0.93,0.98,0.44
+a U.S.-based company building technology to enable the quantum internet,15,0.02,0.86,0.91,0.61
+"the “second quantum revolution,” where they are now exploiting quantum concepts to develop opportunities like quantum computers",17,0.14,0.87,0.92,0.95
+planqc in Germany has raised €4.6m to develop a highly scalable room temperature  quantum computer,20,0.04,0.89,0.94,0.74
+"working with particles at the smallest scales, physicists are essential to developing quantum information science",2,0.08,0.85,0.91,0.85
+This is the first of its kind to pass verification tests and will offer potential for applications such as quantum computers and aerospace,2,0.08,0.85,0.90,0.83
+The report provides Quantum Communication Device market revenues,31,1.00,1.00,1.00,0.00
+ORCA to build photonic quantum computers in optical fibre,19,0.03,0.83,0.91,0.66
+"As an optimization, it is therefore important to add a mechanism to discard qubits that",22,0.02,0.90,0.90,0.98
+"Space applications of quantum technology are a fast-growing domain, with patent filings increasing by more than 400% over the last five years",2,0.08,0.85,0.93,0.95
+"Founded in April 2022 by Alexander Glätzle, Sebastian Blatt, Johannes Zeiher, Lukas Reichsöllner, Ann-Kristin Achleitner, and Markus Wagner, planqc is building quantum computers that store information in individual atoms –",19,0.03,0.83,0.95,0.70
+China is found to be increasing its capabilities in quantum radar systems,22,0.02,0.90,0.95,0.64
+Another moonshot project that is making good headway is Quantum computing,22,0.02,0.90,0.91,0.97
+of building a quantum computer falls over the next ten years,29,0.16,0.86,0.90,0.63
+it is possible to implement a high-coherence high-anharmonicity superconducting qubit design,22,0.02,0.90,0.92,0.95
+"Another application, quantum sensing, is available today",16,0.15,0.93,0.98,0.50
+the first drug discovery platform built on a quantum computer,36,0.23,0.93,0.96,0.57
+IBM states that it will be possible to build a quantum computer with 50-100 qubits in the next ten years,19,0.03,0.83,0.91,0.91
+a technical development program to build a silicon quantum computer,36,0.23,0.93,0.95,0.58
+This is the first of its kind to pass verification tests and will offer enormous potential for applications such as quantum computers and aerospace,2,0.08,0.85,0.90,0.83
+"Like quantum computers, quantum networks are still at an early stage of development",2,0.08,0.85,0.93,0.99
+"today, the new laboratory with the so-called quantum communication infrastructure is available to experts from the Faculty of Electrical Engineering and Communication of the Brno University of Technology",16,0.15,0.93,0.93,0.74
+The achievement is a major milestone in the race to build the world’s first quantum computer,39,0.14,0.93,0.91,0.85
+IBM will use chip-to-chip couplers to build even larger quantum systems,36,0.23,0.93,0.97,0.49
+"IBM plans to be using all three of these scalability techniques by 2025 to build a 4,000+ qubit processor based on multiple clusters",39,0.14,0.93,0.94,0.71
+"While building systems with more qubits is important for extending the capabilities of quantum computing, the quality of these qubits is also essential to building practical quantum computers",39,0.14,0.93,0.92,0.81
+Beam-splitter operations are an indispensable resource for processing quantum information,2,0.08,0.85,0.93,0.85
+The Series A funding will allow the startup to continue developing its technology and to build a 100 qubit quantum device by 2028,15,0.02,0.86,0.91,1.00
+Research provides building blocks for future quantum computing technology,25,0.03,0.82,0.91,0.77
+Its ultimate goal is to build a commercial scale quantum computer,36,0.23,0.93,0.92,0.72
+"Databases, virtual spaces, sub-structures, and quantum computers are all built on these algorithms",19,0.03,0.83,0.90,0.70
+"such as China, Singapore, and India were amongst those that had begun work to build up capabilities in quantum computing",22,0.02,0.90,0.95,0.70
+"On one hand, quantum computers are a threat because nowadays",22,0.02,0.90,0.91,0.91
+"once quantum computers with a certain processing capacity are available, they will be able to break these cryptosystems",2,0.08,0.85,0.90,0.93
+"with enabling certain capabilities of quantum networks, there are some hurdles",2,0.08,0.85,0.93,0.97
+We deploy advanced theoretical and mathematical techniques to develop quantum computing applications that significantly,17,0.14,0.87,0.91,0.89
+"Today, quantum computing systems are still in early development",16,0.15,0.93,0.97,0.58
+"While technology giants are developing their quantum systems, they may collaborate with seasoned startups",20,0.04,0.89,0.92,0.82
+Azure Cloud supports quantum computers developed by Microsoft’s partners,29,0.16,0.86,0.90,0.63
+Microsoft has also developed its quantum system,20,0.04,0.89,0.96,0.68
+"Specifically, it will develop an alternative to today's qubits",17,0.14,0.87,0.90,0.92
+It will build a 'fault-tolerant' qubit device on Silicon substrate that is immune,39,0.14,0.93,0.96,0.82
+full-scale implementation of quantum technologies in Russia and throughout the world is possible,22,0.02,0.90,0.95,0.67
+"With the largest quantum hardware team amongst quantum computing companies in Europe and with EU backing, the company is well positioned to build the most advanced quantum computer in the world",36,0.23,0.93,0.96,0.52
+This study presents a clock synchronization method based on quantum entanglement which is simple and reliable and more efficient,2,0.08,0.85,0.91,1.00
+"With the emergence of quantum computing, some advanced quantum algorithms",13,0.07,0.78,0.98,0.51
+The facility is dedicated to researching and developing quantum computing in the U.K. and around the world,13,0.07,0.78,0.94,0.67
+The companies adopting quantum computing are generally larger,16,0.15,0.93,0.97,0.58
+The University of Ottawa partners with a Toronto-based company to develop and commercialize powerful quantum computing technology,14,0.35,0.93,0.98,0.38
+Working on quantum-based solutions is something,22,0.02,0.90,0.90,0.99
+"building a quantum computer, is like other Silicon Valley technologies that",22,0.02,0.90,0.93,0.76
+The company is developing the first digital quantum computing platform for global businesses that,14,0.35,0.93,0.98,0.38
+Realizing the potential of near-term quantum computers to solve industry-relevant constrained- optimization problems is a promising path to quantum advantage,22,0.02,0.90,0.92,0.90
+technique to improve quantum dots color conversion performance,33,0.78,0.98,1.00,0.11
+There is also cutting-edge research in quantum technologies that may lead to more new ways of charging EVs quickly,2,0.08,0.85,0.91,0.94
+"Google, one of the field’s leaders, wants to build a commercial quantum computer by 2029",36,0.23,0.93,0.98,0.46
+"The deal will boost quantum computing research, so laboratories and startups can develop quantum software in parallel to the development of quantum hardware",17,0.14,0.87,0.91,0.78
+The ORCA platform is the first to include a ‘quantum memory’ allowing quantum computers based on single photons (units of light) to become scalable,2,0.08,0.85,0.91,0.75
+PennyLane offers a powerful and innovative differentiable programming approach to quantum computing,13,0.07,0.78,0.92,0.68
+They are building a larger second-generation quantum computing system that can run commercial use-cases,36,0.23,0.93,0.96,0.52
+These capabilities are necessary to create quantum networks and to improve quantum sensing,39,0.14,0.93,0.93,0.70
+"IBM Quantum is an industry-first initiative to build universal quantum computers for business, engineering and science",2,0.08,0.85,0.92,0.96
+Building a quantum secure communication network is an urgent matter,2,0.08,0.85,0.91,0.96
+we have the tools to enable quantum advantage,15,0.02,0.86,0.92,0.62
+We designed OpenQASM as the intermediate representation language for this developer and this developer will build primitive Qiskit Runtime programs for the developer at the next layer,36,0.23,0.93,0.94,0.63
+"Bringing Post-Quantum Cryptography to Large-Scale NextG Systems,” is a collaboration with Florida Atlantic University and its principal investigator Reza Azarderakhsh",22,0.02,0.90,0.94,0.70
+"The new device, named Borealis, is the first quantum computer from a startup to display such ""quantum advantage"" over regular computers",2,0.08,0.85,0.90,0.70
+Orca Computing’s aim is to develop scalable quantum computers,20,0.04,0.89,0.97,0.56
+the MoD has ‘begun’ to develop a quantum computer,20,0.04,0.89,0.94,0.74
+Quantum computing is currently in development with many countries investing in the technology to gain first-mover advantage,22,0.02,0.90,0.94,0.78
+"Foundry, which will develop the components needed to build quantum computers and devices",19,0.03,0.83,0.94,0.96
+"Google and IBM are developing superconducting qubit systems, while PsiQuantum is focused on building a quantum computing factory with a 1-million qubit system",32,0.14,0.85,0.92,0.93
+Ongoing efforts to build quantum computers are important,39,0.14,0.93,0.97,0.82
+the basic physical requirements to build a quantum computer,19,0.03,0.83,0.95,0.75
+our ability to build and control these quantum systems,36,0.23,0.93,0.97,0.49
+"Quantum computing is still in its infancy, but supercomputers are being used to emulate future quantum computers and develop skills and tools that can be used once this technology becomes viable",2,0.08,0.85,0.90,0.90
+The system is usually tested and equipped to enhance the performance of futuristic quantum computers,33,0.78,0.98,0.94,0.50
+These conferences will provide experts with an opportunity to delve into fundamental quantum-technology research,23,0.10,0.91,0.93,0.57
+we build sufficiently capable quantum computing systems,26,1.00,1.00,1.00,0.00
+"Long coherence times are essential, but many other ingredients are needed to build an intermediate scalable error-mitigated quantum computer",39,0.14,0.93,0.97,0.82
+Quantinuum offers quantum computing hardware,13,0.07,0.78,0.93,0.54
+the idea is to eventually build a quantum internet,36,0.23,0.93,0.97,0.47
+IonQ purports to 'develop quantum computers designed to solve the world,34,-0.08,0.81,0.95,1.00
+Singapore aims to boost its capabilities in quantum computing,13,0.07,0.78,0.94,0.67
+Cellframe builds Post-Quantum Blockchain,19,0.03,0.83,0.91,0.71
+Many companies are currently building their own quantum computer systems,36,0.23,0.93,0.97,0.48
+How government is helping in growth by rising investments in quantum computing technology?,13,0.07,0.78,0.94,0.67
+"participating institution to develop capabilities across quantum computing, communications, and devices",20,0.04,0.89,0.92,0.83
+entanglement to build and extend a quantum network,19,0.03,0.83,0.93,0.75
+"Entropica Labs develops tools, algorithms and software to solve challenging enterprise optimization problems and to advance the performance of quantum computers",34,-0.08,0.81,0.95,1.00
+"it, the University of Amsterdam (UvA), Eindhoven University of Technology (TU/e) and other knowledge institutions are working with companies to develop the technology and applications of quantum sensing",20,0.04,0.89,0.92,0.78
+"Singapore will soon build its own quantum computer, joining a handful of nations in doing so",36,0.23,0.93,0.97,0.48
+"there are two major inhibitors to rapid, wide-scale adoption of quantum technology",2,0.08,0.85,0.92,0.86
+"The long-term plan is for the EuroQCI to become the basis of a quantum internet in Europe, connecting quantum computers, simulators and sensors via quantum networks to distribute information and resources with a state of the art security method",2,0.08,0.85,0.90,0.74
+Singapore is aiming to boost its capabilities in quantum computing with new initiatives to develop relevant skillsets and quantum devices,17,0.14,0.87,0.95,0.63
+Building a quantum internet is therefore of the utmost importance,22,0.02,0.90,0.92,0.77
+"Quantum computing in its early forms already is available through the cloud, from companies such as Alibaba, D-Wave Systems,",16,0.15,0.93,0.97,0.58
+Scientists now hope this is a first step towards building a larger quantum network,22,0.02,0.90,0.93,0.77
+The present disclosure provides a quantum dot material comprising a quantum dot body and a hole transport ligand bonded to the quantum,25,0.03,0.82,0.92,0.70
+"The resulting deeper understanding would be helpful in furthering theoretical advances in quantum information theory, for instance",22,0.02,0.90,0.95,0.62
+"with new hardware, software, and tools to enable, and accelerate the delivery of in-production quantum computing applications",15,0.02,0.86,0.95,0.54
+This shows Intel's intention to further develop its business in quantum computer manufacturing,20,0.04,0.89,0.94,0.74
+The key to the promotion and adoption of quantum computing is the ability,22,0.02,0.90,0.92,0.86
+"Now, new research has developed the first functioning error-free quantum-computing system",20,0.04,0.89,0.96,0.68
+"that is influenced by multiple factors contributing to the overall performance of a quantum computer, including its number of qubits, systemic errors, device connectivity, and compiler efficiency",29,0.16,0.86,0.94,0.66
+This initiative aims build the world’s first universal-scale quantum computing system this decade,36,0.23,0.93,0.96,0.52
+"better, Universal Quantum is building the world’s first million-qubit quantum computer to solve real-world problems",34,-0.08,0.81,0.91,0.91
+"Because of this, experts hope that this achievement will be followed up by more breakthroughs, allowing them to build the quantum internet",19,0.03,0.83,0.90,0.77
+"Her goal is to develop scalable, stable and noiseless quantum devices that can push technology past the classical era",17,0.14,0.87,0.95,0.69
+the idea is eventually to build a quantum internet,36,0.23,0.93,0.97,0.47
+"ORGANIZATION AND BUSINESS       Rigetti Holdings, Inc. and its subsidiaries (collectively, the ""Company"") build quantum computers and the superconducting quantum processors that power them",19,0.03,0.83,0.96,0.73
+"you work with a company that helps you develop an algorithm that works on one quantum computer,",29,0.16,0.86,0.90,0.63
+Lockheed Martin has been proud to support advanced practical quantum computing,13,0.07,0.78,0.94,0.67
+Xanadu intends to use the funds to develop quantum computers,17,0.14,0.87,0.92,0.77
+that quantum technologies that are being developed will be practically useful,39,0.14,0.93,0.91,1.00
+Measuring these Bell states is critical to performing many of the protocols necessary to perform quantum communication and distribute entanglement across a quantum network,2,0.08,0.85,0.91,0.88
+One of the future's major challenges is the threat from quantum computers,22,0.02,0.90,0.93,0.75
+Techniques regarding quantum computer error mitigation are provided,31,1.00,1.00,1.00,0.00
+"Ultimately, they developed a quantum algorithm to allow the computation of some of these components on a quantum computer while leaving other computations for classical computers",3,0.02,0.76,0.91,0.91
+", where scientists are developing superconducting qubits with long lifetimes",2,0.08,0.85,0.92,0.75
+paramagnetic resonance technology is very important to the research in the field of quantum computing,22,0.02,0.90,0.97,0.55
+"To enable qubits with the speed and quality necessary for practical quantum computing, they will be orchestrated",15,0.02,0.86,0.93,0.64
+there has been steady progress in building up the capabilities of quantum computers in the US and abroad,22,0.02,0.90,0.92,0.75
+The report provides Universal Quantum Computer market revenues,31,1.00,1.00,1.00,0.00
+scared—quantum science and quantum computing specifically is amazing and could make our individual and collective lives better in countless ways,22,0.02,0.90,0.91,0.92
+"Current quantum technologies provide designing of various laser-like quantum devices, which produce photon3,",25,0.03,0.82,0.90,0.97
+researchers to develop quantum technology,17,0.14,0.87,0.92,0.81
+We have made progress in quantum technology,30,0.11,0.86,0.91,0.69
+we have now developed a prototype of a quantum processor,20,0.04,0.89,0.95,0.72
+"Incidentally, we were the first to develop software for this quantum algorithm in the interests of the atomic industry",2,0.08,0.85,0.90,0.76
+"Nevertheless, quantum technology is in the early stage and comes with the risks linked to leading-edge technology development,",22,0.02,0.90,0.90,0.88
+its commitment to building ever more powerful quantum computers with an increasing number of algorithmic qubits,19,0.03,0.83,0.92,0.78
+implementing Shor’s algorithm are available,16,0.15,0.93,0.97,0.55
+"There are various ways to physically implement the concept of qubits,"" says Thomas Stolz, who has been undertaking research on the fundamentals of quantum computers at the Max Planck Institute of Quantum Optics (MPQ) in Garching",0,-0.04,0.84,0.90,0.82
+Aegiq's technology platform based on single photon sources enables various applications from reliable and secure communication infrastructures to scalable quantum computing,15,0.02,0.86,0.92,0.68
+"That means developing our own quantum computing technology, and protecting our key IT infrastructure from quantum attacks",17,0.14,0.87,0.94,0.74
+"According to IBM, the goal is to build a million-qubit quantum system",36,0.23,0.93,0.97,0.49
+"Building quantum computers is a more difficult task that developing Artificial Intelligence (AI), he added",0,-0.04,0.84,0.91,0.86
+it was to build quantum computing devices,36,0.23,0.93,0.96,0.52
+quantum computers work on 'qubits,29,0.16,0.86,0.99,0.42
+companies nowadays are providing quantum computing on the cloud as a service (QCaaS) which is a great start for quantum technology,0,-0.04,0.84,0.91,0.99
+"To realize a useful quantum computer, the quality requirements for the qubits are extremely demanding",0,-0.04,0.84,0.91,0.92
+"the global science and technology strategy, and quantum chip development is the core of quantum computer research",2,0.08,0.85,0.92,0.83
+The present disclosure provides a superconducting qubit,23,0.10,0.91,0.95,0.71
+IonQ announced in October 2020 that it had developed the world’s most powerful quantum computer with a 32-qubit system,7,0.03,0.77,0.91,0.63
+IonQ is building quantum computing for today and for the future,36,0.23,0.93,0.96,0.52
+"To realize a useful quantum computer, the quality requirements for qubits are extremely demanding",0,-0.04,0.84,0.91,0.92
+A fault tolerant quantum computer is implemented using hybrid acoustic-electric qubits,29,0.16,0.86,0.93,0.55
+"This present disclosure provides group III-V quantum dots,",23,0.10,0.91,0.94,0.73
+"CYD       CYD (Nantong Changed New Material Co., Ltd) is the global leader in developing, manufacturing and marketing high quality quantum",16,0.15,0.93,0.98,0.49
+"of driving industry-leading initiatives that leverage the Cloud's on-demand elasticity, her team is focused on engineering Artificial Intelligence (AI), Machine Learning, and delivered meaningful research on Quantum Computing capabilities to enable faster, more advanced, and complex market models to provide a superior client experience",25,0.03,0.82,0.92,0.90
+Quantum computing is still at an early stage,16,0.15,0.93,0.97,0.58
+"The Center for Quantum Computing will focus on quantum hardware, education, and fundamental research",32,0.14,0.85,0.91,0.65
+There are additional issues involved with implementing and operating quantum computing,22,0.02,0.90,0.91,0.79
+What are the challenges facing quantum computing and how can you step up to help solve them,16,0.15,0.93,0.97,0.58
+"IQM is building Finland's first commercial 54-qubit quantum computer with VTT, and an IQM-led consortium (Q-Exa) is building Germany's quantum computer, which will be integrated into an HPC supercomputer to create an accelerator for future scientific research",19,0.03,0.83,0.92,0.86
+Fujitsu has developed a parallel and distributed quantum simulator for a cluster system,17,0.14,0.87,0.90,0.81
+China's vigorous fusion program is committed to developing its quantum computing resources,17,0.14,0.87,0.93,0.69
+"Via this achievement, NEC has made further progress toward the production of a quantum",30,0.11,0.86,0.91,0.69
+"In 1999, NEC developed a superconducting qubit for use in gate-type quantum computers",17,0.14,0.87,0.93,0.72
+The overall aim is to develop and publish a roadmap that will enable scalable quantum technologies,15,0.02,0.86,0.94,1.00
+collaboration with Microsoft to provide Rigetti quantum computers over the cloud to Microsoft's Azure Quantum Service usersBERKELEY,23,0.10,0.91,0.94,0.62
+It was developed in the Enabling QUAnTum AdvantagE (EQUATE) project,14,0.35,0.93,0.98,0.38
+the Q&A session is available on this webpage,16,0.15,0.93,0.93,0.66
+"Indefinite causal order provides a truly new resource for quantum technologies, and our Network",23,0.10,0.91,0.96,0.54
+Companies like Google and IBM plan to double the performance of quantum computers each year,29,0.16,0.86,0.90,0.63
+"quantum computing, which is expected to enable high-speed solutions to problems that could not be solved in the past",15,0.02,0.86,0.91,0.79
+"Zapata Computing, Inc. builds quantum-ready applications for enterprise on Orquestra®,",19,0.03,0.83,0.92,0.70
+SpeQtral's QKD technology solution is a crucial element in building global quantum-secure communication networks,0,-0.04,0.84,0.91,0.91
+It will also build advanced technology and engineering capabilities in quantum chips,36,0.23,0.93,0.91,0.97
+Link to Story       Emergen Research Logo       Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key,2,0.08,0.85,0.93,0.78
+The support given by the government for the execution of quantum computing technology and its development is a prominent factor in the market,2,0.08,0.85,0.91,0.72
+The funding is intended to enable quantum information science and technology applications for more than ten years by fixating its objectives and significance,15,0.02,0.86,0.92,0.69
+Atom Computing will use this new investment to build their second-generation quantum computing systems and commercialize the technology,26,1.00,1.00,1.00,0.00
+"The team from University of New South Wales (UNSW) in Australia, in partnership with the University of Melbourne, University of Technology Sydney, and others based in the US, Japan and Egypt, has developed silicon-based quantum processors",14,0.35,0.93,0.98,0.38
+Our Quantum Center is focused on trying to develop quantum sensors and quantum technology,32,0.14,0.85,0.92,0.89
+I am very much looking forward to speaking about the software that we develop at HQS to make quantum computers useful for the high performance computing (HPC) community,30,0.11,0.86,0.91,0.80
+"Also, some countries are developing quantum communication methods that should be immune to an attack",39,0.14,0.93,0.94,0.77
+project which is going to be first Quantum Computing Technology Park of India,21,1.00,1.00,1.00,0.00
+The event and Q&A session will be available,16,0.15,0.93,0.93,0.66
+"light source module, which will be a key device to realize a rack-sized optical quantum computer",0,-0.04,0.84,0.92,0.85
+"As a first step, we will develop an optical quantum computer composed",20,0.04,0.89,0.96,0.60
+"IQM is building Finland's first commercial 54-qubit quantum computer with VTT, and an IQM-led consortium (Q-Exa) is building a quantum computer in Germany that will be integrated into an HPC supercomputer to create an accelerator for future scientific research",19,0.03,0.83,0.92,0.86
+A collaboration between the University of Birmingham-led UK Quantum Technology Hub and BAE Systems to develop and integrate quantum sensing technologies,17,0.14,0.87,0.95,0.92
+There are two ways to counter the threats quantum computers,16,0.15,0.93,0.94,0.71
+the race to innovation in quantum computing proving to be the great scientific race,22,0.02,0.90,0.92,0.92
+"IQM is building Finland's first commercial 54-qubit quantum computer with VTT, and an IQM-led consortium (Q-Exa) is building Germany's quantum computer that will be integrated into an HPC supercomputer to create an accelerator for future scientific research",19,0.03,0.83,0.92,0.86
+they work on AI and quantum computing,13,0.07,0.78,0.94,0.67
+the Quantinuum Model H1 quantum computer powered by Honeywell,2,0.08,0.85,0.93,0.97
+"behaving in a solely classical manner, is crucial to developing novel quantum devices",39,0.14,0.93,0.92,0.94
+then quantum computing will enable us to process information so fast that we can process an almost infinite number of solutions,15,0.02,0.86,0.90,0.71
+"He said he and colleagues had developed an algorithm for a non-quantum computer to perform a task ""thought to be impossible"" for regular computers",0,-0.04,0.84,0.91,0.77
+"In the future, new materials will enable quantum computing to further enhance transaction handling and improve security",15,0.02,0.86,0.92,0.72
+Their work has the potential to provide the missing part of the ultimate quantum technology,23,0.10,0.91,0.96,0.54
+China builds world's fastest programmable quantum computers,36,0.23,0.93,0.96,0.57
+"In both cases, Big Tech is working in tandem with research institutions to develop quantum computers, although these are currently still relatively small in relation to the end-state vision",0,-0.04,0.84,0.90,0.94
+"Firstly, we develop new methods and software for optimising quantum circuits",17,0.14,0.87,0.92,0.77
+The Centre of High-Performance Computing (CHPC) will provide the quantum computing infrastructure,23,0.10,0.91,0.96,0.53
+"In quantum computing, for instance, we will not be building a quantum computer but rather develop 'quantum apps",19,0.03,0.83,0.91,0.85
+"quantum systems are available on all three major cloud providers, including Microsoft Azure",2,0.08,0.85,0.91,0.91
+The demand for IonQ's quantum computers has never been clearer,16,0.15,0.93,0.97,0.61
+quantum computers are available via all major cloud providers,22,0.02,0.90,0.95,0.64
+Dr. Devoret has developed a quantum computer based on superconducting devices,17,0.14,0.87,0.94,0.78
+The race to innovation in quantum computing is proving to be the great scientific race,22,0.02,0.90,0.92,0.92
+Saggezza developed its quantum computing lab to promote its belief that innovation should,20,0.04,0.89,0.94,0.68
+"His dissertation, ""Protected qubits, Floquet engineering and crosstalk suppression with superconducting circuits,"" provides solutions for challenges in creating scalable quantum devices, among them suppressing noise and crosstalk to improve device coherence",3,0.02,0.76,0.91,0.80
+"Founded in 2015 by Chris Monroe and Jungsang Kim at the University of Maryland and Duke University, IonQ is developing quantum computers designed to solve the world's most complex problems, and transform business, society, and the planet for the better",34,-0.08,0.81,0.91,0.76
+Prototype quantum computers have been built by firms such as Google,26,1.00,1.00,1.00,0.00
+There were talks on the latest research into quantum sensors and computing,22,0.02,0.90,0.95,0.66
+. Half of the projects are in quantum computing,16,0.15,0.93,0.97,0.58
+China is working on an ambitious quantum information science research project and channelizing efforts to develop quantum computing and communications,20,0.04,0.89,0.92,0.83
+There have been some significant advancements in quantum computing in the past few,22,0.02,0.90,0.93,0.74
+Mukai enables companies like Boeing and others to leverage the power of quantum technologies with its best-in-class performance,15,0.02,0.86,0.90,0.85
+The agency wants to build the first ever quantum internet,26,1.00,1.00,1.00,0.00
+This collaboration was focused on enriching the establishment of a new 64-qubit quantum computing lab,32,0.14,0.85,0.96,0.44
+more exotic technologies such as quantum radar are also under development,22,0.02,0.90,0.94,0.65
+NIST's research to develop a measurement infrastructure has enabled quantum information science,15,0.02,0.86,0.94,0.84
+We are excited to help accelerate the adoption of quantum computing as a solution,13,0.07,0.78,0.94,0.67
+"Delta Air Lines, Goldman Sachs, Wells Fargo and Woodside Energy are among the latest organizations to begin to explore practical applications using quantum computing",2,0.08,0.85,0.91,0.98
+IBM Quantum       IBM Quantum is an industry-first initiative to build commercial universal quantum systems for business and science applications,2,0.08,0.85,0.91,0.80
