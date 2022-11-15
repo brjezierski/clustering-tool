@@ -18,7 +18,6 @@ if __name__ == "__main__":
     
     parser.add_argument("-kw", "--KEYWORD_FILE", help = "Input file of keyword vectors (required, format: pickled dict)")
     parser.add_argument("-doc", "--DOCUMENT_FILE", help = "Input file of documents (format: tsv with headers and documents in first column)") #TODO: test
-    parser.add_argument("-k", "--K", help = "Number of clusters (required)")
     parser.add_argument("-weights", "--WEIGHTS_FILE", help = "File with weights (format: tsv with keywords in first column and weights in second)")
     parser.add_argument('-col','--COLUMN', nargs='+', help='List of column names  and integers for different vector encodings (1 - word embedding representation, 2 - one-hot), e.g., `-col keywords 1 categories 2` (default `keywords 1`)')
     # parser.add_argument("-alg", "--ALGORITHM", help = "Clustering algorithm (1 - k-means [default], 2 - agglomerative clustering)") #TODO: test
@@ -27,21 +26,11 @@ if __name__ == "__main__":
     # Read arguments from command line
     args = parser.parse_args()
 
-    to_print = args.PRINT
-    cutoff_threshold = float(args.CUTOFF_THRESHOLD) if args.CUTOFF_THRESHOLD else 0.0
     top_k = int(args.Max) if args.Max else 50
-
     algorithm = 'k-means' 
-
-    labels = read_cluster_labels(args.LABELS_FILE) if args.LABELS_FILE else {}
     weights = pd.read_csv(args.WEIGHTS_FILE, sep='\t', names = ['kw', 'weight'], header=None) if args.WEIGHTS_FILE else None
     if weights is not None:
         weights = dict(zip(weights.kw, weights.weight))
-    if args.K:
-        k = int(args.K)
-    else:
-        print("Desired number of clusters missing!")
-        exit()
 
     if args.KEYWORD_FILE:
         print("Reading input file % s" % args.KEYWORD_FILE)
@@ -119,7 +108,6 @@ if __name__ == "__main__":
             X=document_embeddings,
             k=k,
             algorithm=algorithm,
-            print_metrics=to_print
         )
     else:
         vectors = vectorized_vocab
