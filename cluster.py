@@ -43,12 +43,22 @@ if __name__ == "__main__":
     # parser.add_argument("-alg", "--ALGORITHM", help = "Clustering algorithm (1 - k-means [default], 2 - agglomerative clustering)") #TODO: test
     parser.add_argument("-labels", "--LABELS_FILE", help = "File with cluster labels for the plot (format: tsv with cluster id in first column and label in second [label \"ignore\" to skip the cluster])") #TODO: test
     parser.add_argument('-plot', "--PLOT", action='store_true', help="Display the plot")
+    parser.add_argument("-display", "--CLUSTERS_TO_DISPLAY", nargs='+', help = "List of cluster ids to display (by default display all)") #TODO: test
     parser.add_argument('-p', "--PRINT", action='store_true', help="Print additional information")
 
     # Read arguments from command line
     args = parser.parse_args()
     to_print = args.PRINT
     cutoff_threshold = float(args.CUTOFF_THRESHOLD) if args.CUTOFF_THRESHOLD else 0.0
+    clusters_to_display = []
+    if args.CLUSTERS_TO_DISPLAY:
+        for id in args.CLUSTERS_TO_DISPLAY:
+            try:
+                clusters_to_display.append(int(id))
+            except ValueError:
+                print("The clusters to display should be integer indices!")
+                exit()
+
     
     # TODO : fix agglomerative algorithm
     # if args.ALGORITHM:
@@ -165,7 +175,7 @@ if __name__ == "__main__":
 
         if args.PLOT:
             reduced_vectors = run_tsne(reduced_model)
-            plot_2d(k, reduced_vectors, reduced_cluster_labels, documents, most_rep_per_cluster, clusters_to_display=[], label_dict=labels) 
+            plot_2d(k, reduced_vectors, reduced_cluster_labels, documents, most_rep_per_cluster, clusters_to_display=clusters_to_display, label_dict=labels) 
 
         
         # Time dimension
@@ -215,4 +225,4 @@ if __name__ == "__main__":
 
         if args.PLOT:
             reduced_vectors = run_tsne(model)
-            plot_2d(k, reduced_vectors, cluster_labels, vocab, most_rep_per_cluster, clusters_to_display=[], label_dict=cluster_label_dict)
+            plot_2d(k, reduced_vectors, cluster_labels, vocab, most_rep_per_cluster, clusters_to_display=clusters_to_display, label_dict=cluster_label_dict)
