@@ -1,17 +1,36 @@
-import pandas as pd
-from gensim.models import Word2Vec, KeyedVectors
-import matplotlib.pyplot as plt
-from methods import run_clustering_alg
+import random
+import torch
+import os
+import re
+import string
+import colorsys
 import argparse
 
-def display_scores(plot, score, label, top_k):
-  plot.plot(range(2, top_k), score[0:top_k-2])
-  plot.set_title(label)
-#   plt.xlabel("No. of clusters")
-#   plt.ylabel("Scores")
-#   plt.legend()
-#   plt.show()
+import nltk
+import numpy as np
+from numpy import unique
+from numpy import where
+import pandas as pd
 
+from matplotlib import pyplot
+from gensim.models import Word2Vec, KeyedVectors
+from nltk import word_tokenize
+from nltk.corpus import stopwords
+from scipy import spatial
+from sklearn.cluster import MiniBatchKMeans, AgglomerativeClustering
+from sklearn.metrics import silhouette_samples, silhouette_score, calinski_harabasz_score, davies_bouldin_score
+from sklearn.neighbors import NearestCentroid
+
+import matplotlib.pyplot as plt
+from sklearn.manifold import TSNE
+
+from methods import run_clustering_alg, get_clustering_details, get_cluster_info, export_to_csv, read_cluster_labels, run_tsne, plot_2d, get_average_keyword_vector, embed
+
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+def display_scores(plot, score, label, bottom_k, top_k):
+  plot.plot(range(bottom_k, top_k), score[0:top_k-bottom_k])
+  plot.set_title(label)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -20,18 +39,27 @@ if __name__ == "__main__":
     parser.add_argument("-doc", "--DOCUMENT_FILE", help = "Input file of documents (format: tsv with headers and documents in first column)") #TODO: test
     parser.add_argument("-weights", "--WEIGHTS_FILE", help = "File with weights (format: tsv with keywords in first column and weights in second)")
     parser.add_argument('-col','--COLUMN', nargs='+', help='List of column names  and integers for different vector encodings (1 - word embedding representation, 2 - one-hot), e.g., `-col keywords 1 categories 2` (default `keywords 1`)')
-    # parser.add_argument("-alg", "--ALGORITHM", help = "Clustering algorithm (1 - k-means [default], 2 - agglomerative clustering)") #TODO: test
-    parser.add_argument("-max", "--Max", help = "Choose top value of k to report scores (default 50)")
+    parser.add_argument("-min", "--Min", help = "Bottom value of k (default 2)")
+    parser.add_argument("-max", "--Max", help = "Top value of k (default 50)")
 
     # Read arguments from command line
     args = parser.parse_args()
 
     top_k = int(args.Max) if args.Max else 50
+    bottom_k = int(args.Min) if args.Min else 2
+    if top_k < 2 or bottom_k < 2:
+        print("Insert at least 2 clusters")
+        exit()
+    if top_k <= bottom_k:
+        print("The max number of clusters has to be greater than the min")
+        exit()
+
     algorithm = 'k-means' 
     weights = pd.read_csv(args.WEIGHTS_FILE, sep='\t', names = ['kw', 'weight'], header=None) if args.WEIGHTS_FILE else None
     if weights is not None:
         weights = dict(zip(weights.kw, weights.weight))
 
+    # Prepare vocabolary with encodings
     if args.KEYWORD_FILE:
         print("Reading input file % s" % args.KEYWORD_FILE)
         topic = args.KEYWORD_FILE.split('.')[0]
@@ -50,7 +78,7 @@ if __name__ == "__main__":
         print("Input file missing!")
         exit()
     
-
+    # Clustering of documents
     if args.DOCUMENT_FILE:
         print(f"Clustering documents from {args.DOCUMENT_FILE}")
         topic = args.DOCUMENT_FILE.split('.')[0]
@@ -60,20 +88,26 @@ if __name__ == "__main__":
         document_df["document"] = document_df["document"].str.strip()
 
         columns = {}
+        columns_used = ""
         if not args.COLUMN:
             columns["keywords"] = 1
+            columns_used += "keywords-1"
         else:
             for i in range(len(args.COLUMN)):
                 if i % 2 == 0:
                     column = args.COLUMN[i]
+                    columns_used += column
                 else:
                     columns[column] = int(args.COLUMN[i])
+                    columns_used += f"-{columns[column]}_"
+            columns_used = columns_used[:-1]
+
         df_columns = []
         for column in columns:
             if columns[column] == 1:
                 document_df[column] = document_df[column].str.split("|", expand = False)
                 document_df[f"{column}_vec"] = [get_average_keyword_vector(keywords, w2v_dict, weights) for keywords in document_df[column]]
-                document_df.dropna(inplace=True) 
+                document_df.dropna(subset=['document', f'{column}_vec'], inplace=True)
                 document_df[f'{column}_vec'] = document_df[f'{column}_vec'].apply(lambda x: list(x))
                 df_columns.append(document_df[f'{column}_vec'])
             elif columns[column] == 2:
@@ -104,20 +138,21 @@ if __name__ == "__main__":
             exit()
     
         vectors = document_embeddings
-        clustering, cluster_labels, cluster_scores, _ = run_clustering_alg(
-            X=document_embeddings,
-            k=k,
-            algorithm=algorithm,
-        )
+        weights_used = 'weighted.' if weights else ''
+        title = f"{topic}.docs.{bottom_k}-{top_k}-clusters.{algorithm}.{columns_used}.{weights_used}"
+
+    # Clustering of keywords
     else:
         vectors = vectorized_vocab
+        title = f"{topic}.kw.{bottom_k}-{top_k}-clusters.{algorithm}."
 
 
     sil_scores = []
     cos_sim_scores = []
     cb_scores = []
     db_scores = []
-    for k in range(2, top_k):
+    for k in range(bottom_k, top_k + 1):
+        print(str(k) + " clusters\n")
         _, _, _, scores = run_clustering_alg(
             X=vectors,
             k=k,
@@ -127,19 +162,22 @@ if __name__ == "__main__":
         cos_sim_scores.append(scores[1])
         cb_scores.append(scores[2])
         db_scores.append(scores[3])
-
+        
     scores = [sil_scores, cos_sim_scores, cb_scores, db_scores]
 
-    fig, axs = plt.subplots(2, 2)
+    fig, axs = plt.subplots(4, 1)
 
-    display_scores(axs[0, 0], scores[0], 'Silhoutte', top_k)
-    display_scores(axs[0, 1], scores[1], 'Average cosine similarity', top_k)
-    display_scores(axs[1, 0], scores[2], 'Calinski and Harabasz', top_k)
-    display_scores(axs[1, 1], scores[3], 'Davies-Bouldin', top_k)
+    display_scores(axs[0], scores[0], 'Silhoutte', bottom_k, top_k + 1)
+    display_scores(axs[1], scores[1], 'Average cosine similarity', bottom_k, top_k + 1)
+    display_scores(axs[2], scores[2], 'Calinski and Harabasz', bottom_k, top_k + 1)
+    display_scores(axs[3], scores[3], 'Davies-Bouldin', bottom_k, top_k + 1)
 
     for ax in axs.flat:
         ax.set(xlabel="No. of clusters", ylabel="Scores")
     for ax in axs.flat:
         ax.label_outer()
+
+    fig.set_size_inches(10, 14)
+    plt.savefig(f'plots/{title}png')
     plt.legend()
     plt.show()

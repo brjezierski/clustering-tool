@@ -1,3 +1,4 @@
+
 import random
 import torch
 import os
@@ -21,6 +22,7 @@ from sklearn.metrics import silhouette_samples, silhouette_score, calinski_harab
 from sklearn.neighbors import NearestCentroid
 
 import matplotlib.pyplot as plt
+# %matplotlib inline
 from sklearn.manifold import TSNE
 
 
@@ -199,6 +201,20 @@ def run_tsne(model, seed=42):
         labels.append(word)
     
     tokens = np.array(tokens)
+    if torch.cuda.is_available():
+      print("Running tSNE CUDA")
+      new_values = TSNE_CUDA(n_components=2, perplexity=30, learning_rate=10, random_seed=seed).fit_transform(np.array(tokens))
+    else:
+      print("Running tSNE on CPU")
+      tsne_model = TSNE(perplexity=30, n_components=2, init='pca', n_iter=1500, random_state=seed)
+      new_values = tsne_model.fit_transform(tokens)
+
+    return new_values
+
+def run_tsne_on_documents(documents, seed=42):
+    "Reduces dimensions to 2 with t-SNE"
+  
+    tokens = np.array(documents)
     if torch.cuda.is_available():
       print("Running tSNE CUDA")
       new_values = TSNE_CUDA(n_components=2, perplexity=30, learning_rate=10, random_seed=seed).fit_transform(np.array(tokens))
